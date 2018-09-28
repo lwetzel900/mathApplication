@@ -1,0 +1,26 @@
+body {
+    font-family: Lucida Sans, Trebuchet MS,sans-serif;
+}
+main {
+    width: 450px;
+    margin: 0 auto;
+    padding: 1em;
+    background: white;
+    border: 2px solid purple;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+label{
+    font-weight: bold;
+}
+.error {
+    color: red;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+
